@@ -1,0 +1,58 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.43.0",
+  "hash": "2355f577d1f275aa7a18",
+  "publicPath": "/static/",
+  "outputPath": "/Users/MAC/Documents/jearwebdevelopment/frontity-cv/website-revamp-1/build/static",
+  "assetsByChunkName": {
+    "test": "test.module.js"
+  },
+  "assets": [
+    {
+      "name": "test.module.js",
+      "size": 8797381,
+      "chunks": [
+        "test"
+      ],
+      "chunkNames": [
+        "test"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "test": {
+      "chunks": [
+        "test"
+      ],
+      "assets": [
+        "test.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "test": {
+      "chunks": [
+        "test"
+      ],
+      "assets": [
+        "test.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
